@@ -1,4 +1,4 @@
 
 
 def fizzbuzz(input):
-    pass
+    return input
