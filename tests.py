@@ -1,2 +1,4 @@
-x = 5
-x + 2
+
+
+def fizzbuzz(input):
+    pass
